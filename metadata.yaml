@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36061
 description: The barren plains of mars held a secret, a yellow metal waiting to be
   found.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36258#The-Beautiful-People
 gutenberg_issued: '2011-05-29'
 gutenberg_type: Text
 identifiers:
