@@ -1,0 +1,33 @@
+_repo: The-Beautiful-People_36258
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36258-h/images/cover_e.jpg
+creator:
+  author:
+    agent_name: Beaumont, Charles
+    aliases:
+    - Nutt, Charles Leroy
+    - Beaumont, Chuck
+    birthdate: 1929
+    deathdate: 1967
+    gutenberg_agent_id: '36061'
+    url: http://www.gutenberg.org/2009/agents/36061
+description: The barren plains of mars held a secret, a yellow metal waiting to be
+  found.
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Teenage girls -- Fiction'
+- !lcsh 'Identity (Psychology) -- Fiction'
+- !lcsh 'Science fiction'
+title: The Beautiful People
+url: http://www.gutenberg.org/ebooks/36258
